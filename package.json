@@ -1,0 +1,12 @@
+{
+  "name": "victoria-gpt-backend",
+  "version": "1.0.0",
+  "main": "victoria-server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node victoria-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
